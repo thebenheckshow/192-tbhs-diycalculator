@@ -1,0 +1,29 @@
+G04 ================== begin FILE IDENTIFICATION RECORD ==================*
+G04 Layout Name:  C:/raspberrypi/rpi1/rpi-cmio/board/RPI-CMIO-V1_2-PUBLIC.brd*
+G04 Film Name:    RPI-CMIO-V1_2-PUBLIC-BRD*
+G04 File Format:  Gerber RS274X*
+G04 File Origin:  Cadence Allegro 16.6-S029*
+G04 Origin Date:  Mon Oct 13 10:37:43 2014*
+G04 *
+G04 Layer:  BOARD GEOMETRY/OUTLINE*
+G04 *
+G04 Offset:    (0.0000 0.0000)*
+G04 Mirror:    No*
+G04 Mode:      Positive*
+G04 Rotation:  0*
+G04 FullContactRelief:  No*
+G04 UndefLineWidth:     0.1500*
+G04 ================== end FILE IDENTIFICATION RECORD ====================*
+%FSLAX35Y35*MOMM*%
+%IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
+%ADD10C,.15*%
+G75*
+%LPD*%
+G75*
+G54D10*
+G01X0Y0D02*
+Y10500000D01*
+X8500000D01*
+Y0D01*
+X0D01*
+M02*

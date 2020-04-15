@@ -1,0 +1,5 @@
+UUNITS = MILLIMETERS
+J2                   13.5000        4.5000        0    FCI_SFW15R-1STE1LF  
+J4                   40.5000        4.5000        0    FCI_SFW15R-1STE1LF  
+J1                   13.5000       15.5000      180    MOLEX_54548-2271    
+J3                   40.5000       15.5000      180    MOLEX_54548-2271    
